@@ -6,7 +6,7 @@
 # export PROJ_PATH=这个jenkins任务在部署机器上的路径
 
 # 输入你的环境上tomcat的全路径
-# export TOMCAT_APP_PATH=tomcat在部署机器上的路径
+# export TOMCAT_APP_PATH=/usr/local/tomcat/apache-tomcat-8.5.32
 
 ### base 函数
 killTomcat()
