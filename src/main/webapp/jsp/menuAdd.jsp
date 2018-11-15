@@ -58,7 +58,7 @@
 						<ul class="breadcrumb">
 							<li>
 								<i class="icon-desktop"></i>
-								<a href="#">添加菜品</a>
+								<a href="#">添加菜品(测试修改)</a>
 							</li>
 						</ul><!-- .breadcrumb -->
 

@@ -82,7 +82,7 @@
 						<ul class="breadcrumb">
 							<li>
 								<i class="icon-dashboard"></i>
-								<a href="#">主菜单（测试）</a>
+								<a href="#">主菜单</a>
 							</li>
 						</ul><!-- .breadcrumb -->
 
